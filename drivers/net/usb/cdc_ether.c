@@ -564,6 +564,7 @@ static const struct driver_info wwan_info = {
 #define SAMSUNG_VENDOR_ID	0x04e8
 #define LINKSYS_VENDOR_ID	0x13b1
 #define LENOVO_VENDOR_ID	0x17ef
+#define LINKSYS_VENDOR_ID	0x13b1
 #define NVIDIA_VENDOR_ID	0x0955
 #define HP_VENDOR_ID		0x03f0
 #define MICROSOFT_VENDOR_ID	0x045e

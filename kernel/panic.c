@@ -28,8 +28,8 @@
 #include <linux/console.h>
 #include <linux/bug.h>
 #include <linux/ratelimit.h>
-#include <linux/sysfs.h>
 #include <linux/debug-snapshot.h>
+#include <linux/sysfs.h>
 
 #ifdef CONFIG_SEC_DEBUG_EXTRA_INFO
 #include <linux/sec_debug.h>

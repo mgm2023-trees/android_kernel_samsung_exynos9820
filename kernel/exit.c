@@ -62,9 +62,9 @@
 #include <linux/random.h>
 #include <linux/rcuwait.h>
 #include <linux/compat.h>
-#include <linux/sysfs.h>
 #include <linux/cpufreq_times.h>
 #include <linux/ems.h>
+#include <linux/sysfs.h>
 
 #include <linux/uaccess.h>
 #include <asm/unistd.h>
